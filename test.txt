@@ -1,0 +1,11 @@
+
+i	PRP
+'d	MD
+like	BB
+to	TO
+go	VB
+to	IN
+a	DT
+fancy	JJ
+restaurant	NN
+.	.
